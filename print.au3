@@ -1,0 +1,8 @@
+Sleep(500)
+Send("!{TAB}")
+Sleep(500)
+Send("^v")
+Sleep(500)
+Send("{ENTER}")
+Sleep(500)
+Send("!{TAB}")
